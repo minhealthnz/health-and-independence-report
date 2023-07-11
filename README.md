@@ -14,7 +14,7 @@ The `output` directory contais the _health-and-independence-report-2022-suppleme
 
 ## Additional information
 
-The 2022 Health & Independence Report can be accessed here *Add link to the MoH website where HAIR will be published*
+The 2022 Health & Independence Report, along with previous editions, can be accessed via the [Manatū Hauora's website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
 
 The 2023 New Zealand Health Strategy can be accessed here *Add link to the MoH website where NZHS will be published*
 
