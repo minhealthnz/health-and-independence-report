@@ -6,7 +6,7 @@ The tables are available as a machine-readable csv file, and a user-friendly int
 
 ## Machine-readable format
 
-The `data` directory contains the _health-and-independence-report-2022-supplementary-data-long-form_ csv file with data organized in a tidy, long format. This intended for those interested in doing further analysis.
+The `data` directory contains the _health-and-independence-report-2022-supplementary-data-long-form_ csv file with data organised in a tidy, long format. This intended for those interested in doing further analysis.
 
 ## User-friendly format
 
