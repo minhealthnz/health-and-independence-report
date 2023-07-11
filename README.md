@@ -1,6 +1,6 @@
 # Health and Independence Report
 
-This repository contains unpublished data from Manatū Hauora and Te Whatu Ora that was used to inform the  Health & Independence Report 2022 and Pae Ora Health Strategies 2023. These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other health datasets.
+This repository contains unpublished data from Manatū Hauora and Te Whatu Ora that was used to inform the  Health and Independence Report 2022 and Pae Ora Health Strategies 2023. These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other health datasets.
 
 The tables are available as a machine-readable csv file, and a user-friendly interactive HTML file.
 
@@ -14,7 +14,6 @@ The `output` directory contains the _health-and-independence-report-2022-supplem
 
 ## Additional information
 
-The 2022 Health & Independence Report, along with previous editions, can be accessed via the [Manatū Hauora website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
-
+The 2022 Health and Independence Report, along with previous editions, can be accessed via the [Manatū Hauora website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
 
 For more information or queries, please contact ERI.AOM@health.govt.nz
