@@ -1,8 +1,6 @@
 # Health & Independence Report
 
-This repository contains supplementary tables for the Health & Independence Report (HAIR). The files include unpublished data that was referenced in HAIR. 
-
-The 2022 HAIR supplementary tables also include unpublidshed data that was used to support the development of the 2023 New Zealand Health Strategy, as part of the [Pae Ora (Healthy Futures) Act](https://www.legislation.govt.nz/act/public/2022/0030/latest/versions.aspx). 
+This repository contains the shared evidence base for the 2022 Health & Independence Report (HAIR) and 2023 Pae Ora Health Strategies, part of the [Pae Ora (Healthy Futures) Act](https://www.legislation.govt.nz/act/public/2022/0030/latest/versions.aspx). These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other health datasets.
 
 The tables are available as a machine-readable csv file, and a user-friendly interactive HTML file.
 
