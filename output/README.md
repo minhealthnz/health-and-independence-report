@@ -1,7 +1,7 @@
 # Health and Independence Report Supplementary tables
----------------------------------------------------------------------------
-This is a HTML file containing a set of interactive tables supporting HAIR and Pae Ora strategies.
 
-This HTML needs to be downloaded by the user in order to be viewed.
+The file `health-and-independence-report-2022-supplementary-data-formatted.html` contains unpublished data used in the 2022 Health & Independence Report and 2023 Pae Ora Health Strategies.
 
-The data in this file is also available as .csv table.
+Data in this file are organised in a more accessible format for readers. This is intended for those who want to consult specific numbers or navigate through the different indicators.
+
+For any queries, please contact ERI.AOM@health.govt.nz
