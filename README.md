@@ -1,8 +1,10 @@
 # Health and Independence Report
 
-This repository contains unpublished data from Manatū Hauora and Te Whatu Ora that was used to inform the  Health and Independence Report 2022 and Pae Ora Health Strategies 2023. These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other health datasets.
+This repository contains supplementary data used in Manatū Hauora's Health and Independence Reports. These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other datasets used to inform the reports.
 
-The tables are available as a machine-readable csv file, and a user-friendly interactive HTML file.
+The tables are available as a machine-readable csv files, and a user-friendly interactive HTML files.
+
+The content for the reports are organised into directories for each Health and Independence Report year.
 
 ## Machine-readable format
 
@@ -10,10 +12,10 @@ The `data` directory contains the _health-and-independence-report-2022-supplemen
 
 ## User-friendly format
 
-The `output` directory contains the _health-and-independence-report-2022-supplementary-data-formatted_ HTML file with data organised in a more accessible format for readers. This is intended for those who want to consult specific numbers or navigate through the different indicators.
+The `output` directory contains the _health-and-independence-report-YEAR-supplementary-data-formatted_ HTML file with data organised in a more accessible format for readers. This is intended for those who want to consult specific numbers or navigate through the different indicators.
 
 ## Additional information
 
-The 2022 Health and Independence Report, along with previous editions, can be accessed via the [Manatū Hauora website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
+The most recent Health and Independence Report, along with previous editions, can be accessed via the [Manatū Hauora website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
 
 For more information or queries, please contact ERI.AOM@health.govt.nz
