@@ -1,4 +1,4 @@
-# Health and Independence Report
+# Health and Independence Report supplementary data
 
 This repository contains supplementary data used in Manatū Hauora's Health and Independence Reports. These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other datasets used to inform the reports.
 
@@ -9,11 +9,11 @@ The content for the reports are organised into directories for each Report year,
 
 ## Machine-readable format
 
-The `data` directory contains the _health-and-independence-report-2022-supplementary-data-long-form_ csv file with data organised in a tidy, long format. This intended for those interested in doing further analysis.
+The `data` directory contains a _csv_ file with data organised in a tidy, long format. This intended for those interested in doing further analysis.
 
 ## User-friendly format
 
-The `output` directory contains the _health-and-independence-report-YEAR-supplementary-data-formatted_ HTML file with data organised in a more accessible format for readers. This is intended for those who want to consult specific numbers or navigate through the different indicators.
+The `output` directory contains a _HTML_ file with data organised in a more accessible format for readers. This is intended for those who want to consult specific numbers or navigate through the different indicators.
 
 ## Additional information
 
