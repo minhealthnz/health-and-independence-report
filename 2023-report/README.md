@@ -1,6 +1,6 @@
 # Health and Independence Report 2023
 
-This repository contains unpublished data from Manatū Hauora and Te Whatu Ora that was used to inform the  Health and Independence Report 2023 and XXXXXXXX. These data tables present a range of unpublished data, including population statistics, New Zealand Health Survey 3-year pooled data and other health datasets.
+This repository contains unpublished data from Manatū Hauora and Te Whatu Ora that was used to inform the  Health and Independence Report 2023. These data tables present a range of unpublished data, including indicators on cancer and screening, as well as New Zealand Health Survey 3-year pooled data.
 
 The tables are available as a machine-readable csv file, and a user-friendly interactive HTML file.
 
