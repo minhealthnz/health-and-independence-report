@@ -17,6 +17,6 @@ The `output` directory contains a _HTML_ file with data organised in a more acce
 
 ## Additional information
 
-The most recent Health and Independence Report, along with previous editions, can be accessed via the Ministry of Health website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
+The most recent Health and Independence Report, along with previous editions, can be accessed via the [Ministry of Health website](https://www.health.govt.nz/about-ministry/corporate-publications/health-and-independence-reports).
 
 For more information or queries, please contact ERI.AOM@health.govt.nz
